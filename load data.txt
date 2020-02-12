@@ -2,4 +2,4 @@
 // we can do the same thing with excel, but for some reason we get duplicate primary key, 
 // copy and paste this below code on CMD and change the directory of your data. 
 
-LOAD DATA INFILE 'F:/data1.txt'into table grade ;
+LOAD DATA INFILE 'F:/data1.txt'into table grade ; // this is the code 
