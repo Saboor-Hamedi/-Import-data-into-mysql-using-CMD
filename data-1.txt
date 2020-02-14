@@ -1,5 +1,0 @@
-//this is the code which is able to import data from notepad into mysql able, 
-// we can do the same thing with excel, but for some reason we get duplicate primary key, 
-// copy and paste this below code on CMD and change the directory of your data. 
-
-LOAD DATA INFILE 'F:/data1.txt'into table grade ; //
